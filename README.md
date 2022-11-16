@@ -4,6 +4,7 @@ So basically, you can't code anything due to your skills issues, so you decided 
 PS : Open it in IDA and check for strings.
 
 AND YOU MIGHT NEED TO RENAME IT AS A .DLL, DIDNT CHECKED A LOT THE CODE BUT IT SEEM TO BE A .DLL
+
 Proofs :
 https://cdn.discordapp.com/attachments/1023657728977141791/1042575122655096843/image.png
 https://cdn.discordapp.com/attachments/1023657728977141791/1042575727712804904/image.png
