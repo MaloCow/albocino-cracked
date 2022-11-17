@@ -6,5 +6,5 @@ PS : Open it in IDA and check for strings.
 AND YOU MIGHT NEED TO RENAME IT AS A .DLL, DIDNT CHECKED A LOT THE CODE BUT IT SEEM TO BE A .DLL
 
 Proofs :
-https://cdn.discordapp.com/attachments/1023657728977141791/1042575122655096843/image.png
-https://cdn.discordapp.com/attachments/1023657728977141791/1042575727712804904/image.png
+https://cdn.discordapp.com/attachments/872647434466132029/1042575021329100800/image.png
+https://cdn.discordapp.com/attachments/872647434466132029/1042583480116199424/image.png
